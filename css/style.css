@@ -159,6 +159,7 @@ img {
   nav{
     padding-top: 35px;
     /*Requirement 11*/
+    text-align: right;
   }
 
   nav li{
